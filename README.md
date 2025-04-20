@@ -3,9 +3,15 @@
   Il progetto NoteApp consiste in un applicazione basata su JavaScript-React, che permette la gestione di note.
 - Istruzioni per installazione e avvio:
 
-  (Le seguenti installazioni potrebbero non essere necessarie)
   Da terminale:
-  > npm install react react-dom
+  > npx create-react-app NoteApp
+  >
+  -> Inserire nella "src" contenuta nella cartella appena creata il contenuto della cartella src della reposity
+
+  Da terminale:
+  
+  (Le seguenti installazioni potrebbero non essere necessarie)
+  >  npm install react react-dom
   > 
   > npm install react-router-dom
   > 
@@ -14,14 +20,15 @@
   > npm install --save-dev @testing-library/jest-dom
   > 
   > npm install --save-dev jest
-  > 
+  >
+  Avviare l'applicazione, da terminale:
   > npm start
 - Tecnologie utilizzate:
   * VS Code (JSX, CSS)
   * Chat GPT AI
   * Claude AI
   * Deepseek AI
-  * YouTube (https://www.youtube.com/watch?v=ulOKYl5sHGk) -> Base per applicazione react di note, in seguito modificata
+  * YouTube (https://www.youtube.com/watch?v=ulOKYl5sHGk) -> Applicazione react di note di base, in seguito modificata
 - Decisioni implementative e sfide affrontate:
 
   Il problema maggiore è stato che sono partito con una conoscenza quasi nulla di JavaScript, HTML e CSS, e quindi saltare direttamente a JSX è risultato complicato.
