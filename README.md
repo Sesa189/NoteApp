@@ -38,4 +38,4 @@
   seguire un video tutorial su YouTube che andava a ricreare un'applicazione simile a ciò che stavo cercando di fare.
   Una volta completata l'applicazione seguendo il video ho consultato le 3 AI indicate sopra per apportare le modifiche necessarie per ottenere un'applicazione più simile
   possibile alla richiesta e che mi soddisfacesse.
-  Infine un'ulteriore difficoltà tutt'ora non risolta è stata la fase di testing, in quanto dopo vari tentativi e consultazioni con AI (Chat GPT) non sono riuscito a risolvere, ma ho comunque lasciato i file di test.
+  Infine un'ulteriore difficoltà tutt'ora non risolta è stata la fase di testing, in quanto dopo vari tentativi e consultazioni con AI (Chat GPT) continua a non funzionare e tutti e 4 i file di test falliscono, ma ho comunque lasciato i file di test.
